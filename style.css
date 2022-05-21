@@ -44,7 +44,7 @@ h4 {
 /* Start header */
 .header {
     min-height: 100vh;
-    background-image: url("images/icon-arrow-down.svg"), url("/images/desktop/image-header.jpg");
+    background-image: url("images/icon-arrow-down.svg"), url("images/desktop/image-header.jpg");
     background-size: auto, cover;
     background-repeat: no-repeat;
     background-position: 50% 44%, 50% 85%;
@@ -261,16 +261,16 @@ hsl(168, 34%, 41%) */
     background-size: cover;
 }
 .img-1 {
-    background-image: url("/images/desktop/image-gallery-milkbottles.jpg");
+    background-image: url("images/desktop/image-gallery-milkbottles.jpg");
 }
 .img-2 {
-    background-image: url("/images/desktop/image-gallery-orange.jpg");
+    background-image: url("images/desktop/image-gallery-orange.jpg");
 }
 .img-3 {
-    background-image: url("/images/desktop/image-gallery-cone.jpg");
+    background-image: url("images/desktop/image-gallery-cone.jpg");
 }
 .img-4 {
-    background-image: url("/images/desktop/image-gallery-sugarcubes.jpg");
+    background-image: url("images/desktop/image-gallery-sugarcubes.jpg");
 }
 
 /* End images */
@@ -309,20 +309,20 @@ hsl(168, 34%, 41%) */
     transition: 0.25s all;
 }
 .icon-link-1 {
-    -webkit-mask: url("/images/icon-facebook.svg") no-repeat center;
-    mask: url("/images/icon-facebook.svg") no-repeat center;
+    -webkit-mask: url("images/icon-facebook.svg") no-repeat center;
+    mask: url("images/icon-facebook.svg") no-repeat center;
 }
 .icon-link-2 {
-    -webkit-mask: url("/images/icon-instagram.svg") no-repeat center;
-    mask: url("/images/icon-instagram.svg") no-repeat center;
+    -webkit-mask: url("images/icon-instagram.svg") no-repeat center;
+    mask: url("images/icon-instagram.svg") no-repeat center;
 }
 .icon-link-3 {
-    -webkit-mask: url("/images/icon-twitter.svg") no-repeat center;
-    mask: url("/images/icon-twitter.svg") no-repeat center;
+    -webkit-mask: url("images/icon-twitter.svg") no-repeat center;
+    mask: url("images/icon-twitter.svg") no-repeat center;
 }
 .icon-link-4 {
-    -webkit-mask: url("/images/icon-pinterest.svg") no-repeat center;
-    mask: url("/images/icon-pinterest.svg") no-repeat center;
+    -webkit-mask: url("images/icon-pinterest.svg") no-repeat center;
+    mask: url("images/icon-pinterest.svg") no-repeat center;
 }
 .icon-link:hover {
     background-color: #fff;
@@ -410,7 +410,7 @@ hsl(168, 34%, 41%) */
         background-color: rgba(255, 255, 255, 0.603);
     }
     .header {
-        background-image: url("/images/icon-arrow-down.svg"), url("/images/mobile/image-header.jpg");
+        background-image: url("images/icon-arrow-down.svg"), url("images/mobile/image-header.jpg");
         background-position: 50% 67%, 50% 85%;
     }
     .two-col-section {
@@ -423,16 +423,16 @@ hsl(168, 34%, 41%) */
     }
     .col-img-1 {
         order: -1;
-        background-image: url("/images/mobile/image-transform.jpg");
+        background-image: url("images/mobile/image-transform.jpg");
     }
     .col-img-2 {
-        background-image: url("/images/mobile/image-stand-out.jpg");
+        background-image: url("images/mobile/image-stand-out.jpg");
     }
     .col-img-3 {
-        background-image: url("/images/mobile/image-graphic-design.jpg");
+        background-image: url("images/mobile/image-graphic-design.jpg");
     }
     .col-img-4 {
-        background-image: url("/images/mobile/image-photography.jpg");
+        background-image: url("images/mobile/image-photography.jpg");
     }
     .col-img {
         padding: 15rem 0;
@@ -471,16 +471,16 @@ hsl(168, 34%, 41%) */
         height: 38vh;
     }
     .img-1 {
-        background-image: url("/images/mobile/image-gallery-milkbottles.jpg");
+        background-image: url("images/mobile/image-gallery-milkbottles.jpg");
     }
     .img-2 {
-        background-image: url("/images/mobile/image-gallery-orange.jpg");
+        background-image: url("images/mobile/image-gallery-orange.jpg");
     }
     .img-3 {
-        background-image: url("/images/mobile/image-gallery-cone.jpg");
+        background-image: url("images/mobile/image-gallery-cone.jpg");
     }
     .img-4 {
-        background-image: url("/images/mobile/image-gallery-sugar-cubes.jpg");
+        background-image: url("images/mobile/image-gallery-sugar-cubes.jpg");
     }
 
     .footer-list {
